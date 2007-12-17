@@ -7,7 +7,6 @@ Patch0: gitcompletion-path.patch
 License: GPL
 Group: Development/Other
 Url: http://www.hawaga.org.uk/ben/tech/gitcompletion/
-BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Requires: bash-completion
 Requires: git-core
 BuildArch: noarch
