@@ -1,0 +1,22 @@
+diff --git a/all-compl b/all-compl
+index 42e4b5b..b13b744 100644
+--- a/all-compl
++++ b/all-compl
+@@ -10,12 +10,12 @@
+ #
+ 
+ # source the library functions
+-source git-compl-lib
++source /usr/share/gitcompletion/git-compl-lib
+ 
+ # These install completions for git,cg,stg and gitk respectively.
+ # git-compl-lib must be sourced before them.
+-source git-compl
+-source cg-compl
+-source stg-compl
+-source gitk-compl
++source /usr/share/gitcompletion/git-compl
++source /usr/share/gitcompletion/cg-compl
++source /usr/share/gitcompletion/stg-compl
++source /usr/share/gitcompletion/gitk-compl
+ 
