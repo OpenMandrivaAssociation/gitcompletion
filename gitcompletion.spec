@@ -1,7 +1,7 @@
 Summary: Bash completion for git and porcelains
 Name: gitcompletion
 Version: 0
-Release: %mkrel 0.20060726.3
+Release: 0.20060726.4
 Source0: %{name}.tar.bz2
 Patch0: gitcompletion-path.patch
 License: GPL
