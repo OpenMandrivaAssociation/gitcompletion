@@ -6,7 +6,7 @@ Source0: %{name}.tar.bz2
 Patch0: gitcompletion-path.patch
 License: GPL
 Group: Development/Other
-Url: http://www.hawaga.org.uk/ben/tech/gitcompletion/
+Url: https://www.hawaga.org.uk/ben/tech/gitcompletion/
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Requires: bash-completion
 Requires: git-core
